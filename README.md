@@ -1,4 +1,5 @@
-# SENG2040_NetworkApplicationDevelopment-A03
+# The History of ARPANET (MS PowerPoint)
  ARPANET-PowerpointPresentation
  
- Description: Final Public Presentation of Research Assignment for ARPANET's history and influence.
+Description:
+ARPANET's history and influence on how the Web was formed for PowerPoint presentation.
